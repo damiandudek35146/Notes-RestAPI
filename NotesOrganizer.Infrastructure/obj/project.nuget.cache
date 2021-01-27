@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "CuYm9qHecT7z3vGqcLEPvuArFxm3v+Q5QPgQmLmfRByJydKAiZOywIUWGCpTxkshQi1vkog6BzjaYEMqIeebDw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\damia\\Source\\Repos\\Notes-RestAPI\\NotesOrganizer.Infrastructure\\NotesOrganizer.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\damia\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\damia\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\damia\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

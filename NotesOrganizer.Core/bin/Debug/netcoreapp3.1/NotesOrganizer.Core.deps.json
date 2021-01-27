@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "NotesOrganizer.Core/1.0.0": {
+        "runtime": {
+          "NotesOrganizer.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NotesOrganizer.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

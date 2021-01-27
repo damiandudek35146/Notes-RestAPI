@@ -1,0 +1,9 @@
+C:\Users\damia\Source\Repos\Note-RestApi\NotesOrganizer.Core\bin\Debug\netcoreapp3.1\NotesOrganizer.Core.deps.json
+C:\Users\damia\Source\Repos\Note-RestApi\NotesOrganizer.Core\bin\Debug\netcoreapp3.1\NotesOrganizer.Core.dll
+C:\Users\damia\Source\Repos\Note-RestApi\NotesOrganizer.Core\bin\Debug\netcoreapp3.1\NotesOrganizer.Core.pdb
+C:\Users\damia\Source\Repos\Note-RestApi\NotesOrganizer.Core\obj\Debug\netcoreapp3.1\NotesOrganizer.Core.csprojAssemblyReference.cache
+C:\Users\damia\Source\Repos\Note-RestApi\NotesOrganizer.Core\obj\Debug\netcoreapp3.1\NotesOrganizer.Core.AssemblyInfoInputs.cache
+C:\Users\damia\Source\Repos\Note-RestApi\NotesOrganizer.Core\obj\Debug\netcoreapp3.1\NotesOrganizer.Core.AssemblyInfo.cs
+C:\Users\damia\Source\Repos\Note-RestApi\NotesOrganizer.Core\obj\Debug\netcoreapp3.1\NotesOrganizer.Core.csproj.CoreCompileInputs.cache
+C:\Users\damia\Source\Repos\Note-RestApi\NotesOrganizer.Core\obj\Debug\netcoreapp3.1\NotesOrganizer.Core.dll
+C:\Users\damia\Source\Repos\Note-RestApi\NotesOrganizer.Core\obj\Debug\netcoreapp3.1\NotesOrganizer.Core.pdb
